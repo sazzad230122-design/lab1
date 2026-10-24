@@ -1,0 +1,6 @@
+{
+  "name": "PlayHub - Free Online HTML5 Games Portal",
+  "description": "Discover and play the best free online HTML5 games across Puzzle, Action, Racing, Arcade, Adventure, and Brain Training. High scores, ad-free option, and instant in-browser gaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
